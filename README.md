@@ -148,5 +148,4 @@ REINDEX DATABASE zabbix;
 
 ------------------------------------------------------------------------
 
-👨‍💻 Maintainer: *Your Name / Company*\
 📅 Last tested: **Aug 2025**

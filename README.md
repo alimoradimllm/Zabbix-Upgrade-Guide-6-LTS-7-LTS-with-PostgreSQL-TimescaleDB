@@ -1,5 +1,3 @@
-# Zabbix-Upgrade-Guide-6-LTS-7-LTS-with-PostgreSQL-TimescaleDB
-Step-by-step instructions to upgrade Zabbix from 6 LTS to 7 LTS, covering PostgreSQL restore, TimescaleDB upgrade, fixing missing constraints, cleaning orphaned data, and reindexing for optimal performance.
 # 📘 Zabbix Upgrade Guide (6 LTS → 7 LTS) with PostgreSQL + TimescaleDB
 
 This document describes the tested steps to upgrade **Zabbix 6 LTS** to
